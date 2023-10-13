@@ -1,0 +1,33 @@
+{
+  "notes": [
+    {
+      "id": 0,
+      "content": "custom-hooks are awesome!"
+    },
+    {
+      "id": 1,
+      "content": "best feature ever <3"
+    },
+    {
+      "content": "is this working?",
+      "id": 2
+    }
+  ],
+  "people": [
+    {
+      "id": 0,
+      "name": "mluukkai",
+      "number": "040-5483923"
+    },
+    {
+      "id": 1,
+      "name": "hellas",
+      "number": "012-123123"
+    },
+    {
+      "name": "what about",
+      "number": "this?",
+      "id": 2
+    }
+  ]
+}
